@@ -1,0 +1,6 @@
+country,state,city,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,latitude,longitude,last_update
+India,Bihar,Gaya,PM2.5,48,113,80.5,24.7969,85.0039,2023-08-01 10:00:00
+India,Maharashtra,Mumbai,NO2,30,70,50.0,19.076,72.8777,2023-08-01 10:00:00
+India,Delhi,New Delhi,PM10,60,120,90.0,28.6139,77.209,2023-08-01 10:00:00
+India,Uttar Pradesh,Lucknow,SO2,20,55,37.5,26.8467,80.9462,2023-08-01 10:00:00
+India,Tamil Nadu,Chennai,O3,15,40,27.5,13.0827,80.2707,2023-08-01 10:00:00
